@@ -1,15 +1,14 @@
 import Navbar from "./components/Navbar"
 import Hero from "./components/hero"
-import Services from "./components/Services"
-import WhyChoose from "./components/WhyChoose"
+import Services from "./components/services"
+import WhyChoose from "./components/whyChoose"
 import Testimonials from "./components/testimonials"   
 import CallToAction from './components/cta';
 import ContactInformation from './components/contact'; 
 import Footer from './components/footer'; 
-
 const App = () => {
   return (
-    <div className="">
+    <div>
       <Navbar />
       <Hero />
       <Services />
