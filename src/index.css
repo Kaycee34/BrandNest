@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    @apply font-sans text-black; 
+}
+
+.carousel-container {
+    touch-action: none; /* Disable drag gestures */
+    overflow: hidden; /* Prevent unintended scrolling inside */
+  }
+  
