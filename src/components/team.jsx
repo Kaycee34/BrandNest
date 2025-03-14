@@ -1,4 +1,4 @@
-import cmo from '../assets/cmo.jpg'
+import cmo from '../assets/CMO.jpg'
 import copywriter from '../assets/copywriter.jpg'
 import founder from '../assets/founder.jpg'
 import designer from '../assets/graphics-designer.jpg'
