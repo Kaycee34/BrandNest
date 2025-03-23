@@ -29,12 +29,12 @@ function Team() {
     },
     {
       name: 'Chiamaka Okpara',
-      role: 'Email Marketer/ Copywriter',
+      role: 'Copywriter/ Community Manager',
       image: copywriter,
     },
     {
       name: 'John Chizarum',
-      role: 'Admin/ OM',
+      role: 'Admin/ COM',
       image: john,
     },
   ]
