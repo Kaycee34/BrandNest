@@ -52,44 +52,6 @@ export default function Footer() {
                 </li>
               </ul>
             </div>
-
-            <div>
-              <h4 className='text-lg font-semibold mb-3'>Resources</h4>
-              <ul className='space-y-2'>
-                <li>
-                  <a
-                    href='#blog'
-                    className='text-white hover:text-[#F5A623] transition duration-300'
-                  >
-                    Blog
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href='#faq'
-                    className='text-white hover:text-[#F5A623] transition duration-300'
-                  >
-                    FAQ
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href='#terms'
-                    className='text-white hover:text-[#F5A623] transition duration-300'
-                  >
-                    Terms & Conditions
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href='#privacy'
-                    className='text-white hover:text-[#F5A623] transition duration-300'
-                  >
-                    Privacy Policy
-                  </a>
-                </li>
-              </ul>
-            </div>
           </div>
         </div>
 
