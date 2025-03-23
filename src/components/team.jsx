@@ -23,18 +23,18 @@ function Team() {
       image: cmo,
     },
     {
-      name: 'kaycee',
+      name: 'Destiny Udechukwu',
       role: 'Web Developer',
       image: kaycee,
     },
     {
       name: 'Chiamaka Okpara',
-      role: 'Copywriter/ Community Manager',
+      role: 'Copywriter/Community Manager',
       image: copywriter,
     },
     {
       name: 'John Chizarum',
-      role: 'Admin/ COM',
+      role: 'Admin/COM',
       image: john,
     },
   ]
