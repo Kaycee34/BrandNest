@@ -14,9 +14,6 @@ export default function CallToAction() {
           Let’s work together to achieve your business goals with customized
           solutions.
         </p>
-        <button className='px-5 py-2 md:px-6 md:py-3 bg-[#F5A623] text-[#04053A] rounded-md text-lg md:text-xl font-semibold shadow-md md:shadow-lg hover:bg-[#FF8F00] transition duration-300'>
-          Contact Us Today
-        </button>
       </div>
     </section>
   )

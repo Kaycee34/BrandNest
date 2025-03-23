@@ -67,12 +67,18 @@ const Carousel = () => {
           and strategies that perform.
         </p>
         <div className='flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-4'>
-          <button className='px-6 md:px-8 py-2 md:py-3 bg-blue-600 text-white text-sm md:text-base rounded-lg hover:bg-blue-500 transition'>
+          <a
+            href='#why-choose-us'
+            className='px-6 md:px-8 py-2 md:py-3 bg-blue-600 text-white text-sm md:text-base rounded-lg hover:bg-blue-500 transition'
+          >
             Explore More
-          </button>
-          <button className='px-6 md:px-8 py-2 md:py-3 bg-gray-700 text-white text-sm md:text-base rounded-lg hover:bg-gray-600 transition'>
+          </a>
+          <a
+            href='#contact'
+            className='px-6 md:px-8 py-2 md:py-3 bg-gray-700 text-white text-sm md:text-base rounded-lg hover:bg-gray-600 transition'
+          >
             Get Started
-          </button>
+          </a>
         </div>
       </div>
       {/* Navigation Arrows */}

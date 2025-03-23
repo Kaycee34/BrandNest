@@ -2,6 +2,7 @@ import cmo from '../assets/CMO.jpg'
 import copywriter from '../assets/copywriter.jpg'
 import founder from '../assets/founder.jpg'
 import designer from '../assets/graphics-designer.jpg'
+import john from '../assets/john.jpg'
 import kaycee from '../assets/kaycee.jpg'
 
 function Team() {
@@ -30,6 +31,11 @@ function Team() {
       name: 'Chiamaka Okpara',
       role: 'Email Marketer/ Copywriter',
       image: copywriter,
+    },
+    {
+      name: 'John Chizarum',
+      role: 'Admin/ OM',
+      image: john,
     },
   ]
 

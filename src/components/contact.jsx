@@ -21,7 +21,7 @@ export default function ContactInformation() {
             <h3 className='text-lg md:text-2xl font-semibold mb-2'>Phone</h3>{' '}
             {/* Adjusted heading size */}
             <p className='text-sm md:text-lg text-gray-700'>
-              +123-456-7890
+              +234-903-551-8402
             </p>{' '}
             {/* Adjusted text size */}
           </div>
